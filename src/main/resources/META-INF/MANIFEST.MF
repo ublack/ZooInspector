@@ -1,2 +1,2 @@
 Main-Class: org.apache.zookeeper.inspector.ZooInspector
-Class-Path: lib/jtoaster-1.0.4.jar lib/slf4j-api-1.6.1.jar lib/TableLayout-20050920.jar lib/zookeeper-3.4.10.jar
+Class-Path: lib/jtoaster-1.0.4.jar lib/slf4j-api-1.6.1.jar lib/zookeeper-3.4.10.jar
